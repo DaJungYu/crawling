@@ -1,0 +1,182 @@
+[
+  {
+    "date": "September 18, 2021",
+    "title": "Security News This Week: Former US Intelligence Operatives Admit They Hacked for UAE",
+    "description": "Plus: Remote learning spyware, an AT&T bribery scandal, and more of the week's top security news.",
+    "link": "https://www.wired.com/story/us-hackers-uae-att-bribes-security-news/"
+  },
+  {
+    "date": "September 17, 2021",
+    "title": "Apple and Google Go Further Than Ever to Appease Russia",
+    "description": "By removing a voting app from their app stores at the Kremlin’s request, the tech giants have set a troubling new precedent.",
+    "link": "https://www.wired.com/story/russia-apple-google-voting-app-navalny/"
+  },
+  {
+    "date": "September 17, 2021",
+    "title": "Anonymous Leaked a Bunch of Data From a Right-Wing Web Host",
+    "description": "The hacktivist collective targeted the domain registrar Epik for providing services to clients including the Texas GOP, Parler, and 8chan.",
+    "link": "https://www.wired.com/story/anonymous-leaked-data-from-right-wing-web-host-epik/"
+  },
+  {
+    "date": "September 17, 2021",
+    "title": "A New App Helps Iranians Hide Messages in Plain Sight",
+    "description": "Nahoft uses encryption to turn chats into a random jumble of words, and it works even when the internet doesn’t.",
+    "link": "https://www.wired.com/story/nahoft-iran-messaging-encryption-app/"
+  },
+  {
+    "date": "September 15, 2021",
+    "title": "You Can Now Ditch the Password on Your Microsoft Account",
+    "description": "You no longer need a long string of characters to access Windows and Office 365.",
+    "link": "https://www.wired.com/story/passwordless-microsoft-account/"
+  },
+  {
+    "date": "September 14, 2021",
+    "title": "It’s a Good Day to Update All Your Devices. Trust Us",
+    "description": "iOS, Windows, and Chrome all have zero-day vulnerabilities that hackers are going after. Now that the fixes are here, you need to install them ASAP.",
+    "link": "https://www.wired.com/story/update-ios-windows-chrome-zero-day-patch/"
+  },
+  {
+    "date": "September 12, 2021",
+    "title": "What Is Zero Trust? It Depends What You Want to Hear",
+    "description": "The cybersecurity world’s favorite catchphrase isn’t any one product or system, but a holistic approach to minimizing damage.",
+    "link": "https://www.wired.com/story/what-is-zero-trust/"
+  },
+  {
+    "date": "September 12, 2021",
+    "title": "How to Find the Hidden Files on Your Phone or Computer",
+    "description": "You shouldn't mess with some of them—but there are others you should be aware of.",
+    "link": "https://www.wired.com/story/how-to-find-hidden-files-windows-macos-android-ios/"
+  },
+  {
+    "date": "September 11, 2021",
+    "title": "Security News This Week: The Biggest DDoS Attack in History Hit Russian Tech Giant Yandex",
+    "description": "Plus: A TrickBot hacker arrest, a Fortinet VPN password leak, and more of the week's top security news.",
+    "link": "https://www.wired.com/story/yandex-ddos-fortinet-passwords-security-news/"
+  },
+  {
+    "date": "September 11, 2021",
+    "title": "LA Police Are Collecting Detainees' Social Media Information",
+    "description": "According to new documents, officers ask people they stop for their Facebook and Twitter account details, and then feed the data into Palantir.",
+    "link": "https://www.wired.com/story/la-police-social-media-palantir/"
+  },
+  {
+    "date": "September 10, 2021",
+    "title": "WhatsApp Fixes Its Biggest Encryption Loophole",
+    "description": "The ubiquitous messaging service will add end-to-end encryption to backups, keeping your chats safe no matter whose cloud they're stored in.",
+    "link": "https://www.wired.com/story/whatsapp-end-to-end-encrypted-backups/"
+  },
+  {
+    "date": "September 8, 2021",
+    "title": "ProtonMail Amends Its Policy After Giving Up an Activist’s Data",
+    "description": "The email service says it was unable to appeal a Swiss court’s demand to log the IP address of a French climate advocate.",
+    "link": "https://www.wired.com/story/protonmail-amends-policy-after-giving-up-activists-data/"
+  },
+  {
+    "date": "September 8, 2021",
+    "title": "The Texas Abortion ‘Whistleblower’ Site Still Can't Find a Host",
+    "description": "Even the most extreme internet infrastructure providers have turned their backs on the website for violating their terms of service.",
+    "link": "https://www.wired.com/story/texas-abortion-law-whistleblower-site/"
+  },
+  {
+    "date": "September 8, 2021",
+    "title": "What Apple Can Do Next to Fight Child Sexual Abuse",
+    "description": "The fallout from the company's recent proposal has created a new opportunity to fix how it roots out abusive material across its devices.",
+    "link": "https://www.wired.com/story/what-apple-can-do-next-to-fight-child-sexual-abuse/"
+  },
+  {
+    "date": "September 4, 2021",
+    "title": "Security News This Week: BrakTooth Flaws Affect Billions of Bluetooth Devices",
+    "description": "Plus: A spyware ban, a big WhatsApp fine, and more of the week's top security news.",
+    "link": "https://www.wired.com/story/braktooth-bluetooth-whatsapp-fine-omg-cable/"
+  },
+  {
+    "date": "September 3, 2021",
+    "title": "Apple Backs Down on Its Controversial Photo-Scanning Plans",
+    "description": "A sustained backlash against a new system to look for child sexual abuse materials on user devices has led the company to hit pause.",
+    "link": "https://www.wired.com/story/apple-icloud-photo-scan-csam-pause-backlash/"
+  },
+  {
+    "date": "September 3, 2021",
+    "title": "Why Ransomware Hackers Love a Holiday Weekend",
+    "description": "Looking forward to Labor Day? So are ruthless gangs of cybercriminals.",
+    "link": "https://www.wired.com/story/ransomware-hacks-holidays-weekends/"
+  },
+  {
+    "date": "August 31, 2021",
+    "title": "What It'll Take to Get Power Back in New Orleans After Hurricane Ida",
+    "description": "It could take weeks to get the lights on in parts of Louisiana, but the playbook on how to do it is clear.",
+    "link": "https://www.wired.com/story/hurricane-ida-new-orleans-power-outage/"
+  },
+  {
+    "date": "August 29, 2021",
+    "title": "6 Things You Need to Do to Prevent Getting Hacked",
+    "description": "You are your own biggest weakness, but changing just a few of your behaviors can reduce the chances that your online accounts get breached.",
+    "link": "https://www.wired.com/story/how-to-prevent-getting-hacked/"
+  },
+  {
+    "date": "August 28, 2021",
+    "title": "Security News This Week: California Man Stole 620,000 iCloud Photos in Search of Nudes",
+    "description": "Plus: The T-Mobile hacker, another big bad Microsoft bug, and more of the week’s top security news.",
+    "link": "https://www.wired.com/story/icloud-photo-theft-nudes-t-mobile-security-news/"
+  },
+  {
+    "date": "August 27, 2021",
+    "title": "An Explosion in Geofence Warrants Threatens Privacy Across the US",
+    "description": "New figures from Google show a tenfold increase in the requests from law enforcement, which target anyone who happened to be in a given location at a specified time.",
+    "link": "https://www.wired.com/story/geofence-warrants-google/"
+  },
+  {
+    "date": "August 26, 2021",
+    "title": "A Bad Solar Storm Could Cause an 'Internet Apocalypse'",
+    "description": "The undersea cables that connect much of the world would be hit especially hard by a coronal mass ejection.",
+    "link": "https://www.wired.com/story/solar-storm-internet-apocalypse-undersea-cables/"
+  },
+  {
+    "date": "August 25, 2021",
+    "title": "The Stealthy iPhone Hacks That Apple Still Can't Stop",
+    "description": "After another “zero-click” attack, security experts say it's time for more extreme measures to keep iMessage users safe.",
+    "link": "https://www.wired.com/story/apple-imessage-zero-click-hacks/"
+  },
+  {
+    "date": "August 24, 2021",
+    "title": "Hackers Could Increase Medication Doses Through Infusion Pump Flaws",
+    "description": "It would take a determined hacker to break into the vulnerable B. Braun products, but the impact could be devastating.",
+    "link": "https://www.wired.com/story/infusion-pump-hack-dose-increase/"
+  },
+  {
+    "date": "August 23, 2021",
+    "title": "38M Records Were Exposed Online—Including Contact-Tracing Info",
+    "description": "Misconfigured Power Apps from Microsoft led to more than a thousand web apps accessible to anyone who found them.",
+    "link": "https://www.wired.com/story/microsoft-power-apps-data-exposed/"
+  },
+  {
+    "date": "August 21, 2021",
+    "title": "Security News This Week: Hackers Stole Over $90M From Japan's Liquid Crypto Exchange",
+    "description": "Plus: An Apple informant, a Census Bureau hack, and more of the week's top security news.",
+    "link": "https://www.wired.com/story/liquid-crypto-hack-census-breach-apple-leaks-security-news/"
+  },
+  {
+    "date": "August 20, 2021",
+    "title": "Google Docs Scams Still Pose a Threat",
+    "description": "A 2017 worm caused havoc across the internet. One researcher is warning that despite new protections put in place, it could still happen again.",
+    "link": "https://www.wired.com/story/google-docs-scams-threat-phishing/"
+  },
+  {
+    "date": "August 20, 2021",
+    "title": "Apple’s Photo-Scanning Plan Sparks Outcry From Policy Groups",
+    "description": "Civil rights activists say creating a system to scan for images of sexual abuse could threaten free speech and actually harm some children.",
+    "link": "https://www.wired.com/story/apple-csam-plan-sparks-outcry-from-policy-groups/"
+  },
+  {
+    "date": "August 18, 2021",
+    "title": "China Aims Its Propaganda Firehose at the BBC",
+    "description": "The alleged digital operation has deployed hundreds of websites and social media accounts to attack the broadcaster's reporting.",
+    "link": "https://www.wired.com/story/china-aims-its-propaganda-firehose-at-the-bbc/"
+  },
+  {
+    "date": "August 18, 2021",
+    "title": "The T-Mobile Breach Is Much Worse Than It Had to Be",
+    "description": "The vast majority of victims weren’t even T-Mobile customers. Now their information is for sale on the dark web.",
+    "link": "https://www.wired.com/story/t-mobile-breach-much-worse-than-it-had-to-be/"
+  }
+]
