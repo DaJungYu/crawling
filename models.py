@@ -53,3 +53,14 @@ class NaverNews(db.Model):
         print("---------------")
         return {c.name: getattr(self, c.name) for c in self.__table__.Columns}
 
+    @property
+    def serialize(self):
+        """Return object data in easily serializable format"""
+        return {
+           'id': self.id,
+           'date': self.date,
+           'title': self.title,
+           'description': self.description,
+           'link': self.link
+       }
+
