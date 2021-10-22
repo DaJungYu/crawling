@@ -32,7 +32,7 @@ def security_news():
 
     # DB로 가져오기
     result = []
-    news = SecurityNews.query.all()
+    news = SecurityNews.query.order_by(NewsSchema.date.desc())
 
     for item in news:
         result.append(item.serialize)
